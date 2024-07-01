@@ -1,4 +1,4 @@
-### Hi I'm Zak, a student in cognitive neuroscience and super eager to know more about the brain 👋
+### Hi I'm Zakie, a student in cognitive neuroscience and super eager to know more about the brain 👋
 
 - 🔭 I’m currently working on Modeling working memory, decision making and reinforcement learning
 - 🌱 I’m currently learning brain dynamics
